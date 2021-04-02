@@ -6,7 +6,7 @@
 
 Previous Projects:
 
-Jan 2020 - Mar 2020: ND-2021 repository (group assignment, more information in the repository) 
+Jan 2020 - Mar 2020: ND-2021 repository (group assignment, more information in the repository/group) 
 
 Dec 2020: Maths and Statistics assignment (data + statistical analysis, creating a machine learning algorthim - written in R)
 
